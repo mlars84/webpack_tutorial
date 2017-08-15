@@ -1,0 +1,14 @@
+{
+  "name": "module-loaders",
+  "version": "1.0.0",
+  "description": "[here](https://www.youtube.com/watch?annotation_id=annotation_4139363737&feature=iv&src_vid=MhkGQAoc7bc&v=9kJVYpOqcVU) from LearnCode.academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.5.4"
+  }
+}
