@@ -1,1 +1,5 @@
-console.log('module1');
+const $ = require('jquery');
+
+$('h1').html('new text');
+
+$('h2').html('Some h2 text here...');
