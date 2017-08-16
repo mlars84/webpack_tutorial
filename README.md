@@ -2,8 +2,13 @@
 Click [here](https://www.youtube.com/watch?annotation_id=annotation_4139363737&feature=iv&src_vid=MhkGQAoc7bc&v=9kJVYpOqcVU) from LearnCode.academy.
 
 ## Getting Started
+- $ npm install || $ yarn install
+- $ npm install -g webpack
+- $ webpack
+- $ NODE_ENV=production webpack
 
 ## Built With
+- JavaScript ES6+, Node.js, Webpack.
 
 ## Acknowledgments
 
