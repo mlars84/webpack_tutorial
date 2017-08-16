@@ -1,5 +1,5 @@
 # Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool
-[here](https://www.youtube.com/watch?annotation_id=annotation_4139363737&feature=iv&src_vid=MhkGQAoc7bc&v=9kJVYpOqcVU) from LearnCode.academy
+Click [here](https://www.youtube.com/watch?annotation_id=annotation_4139363737&feature=iv&src_vid=MhkGQAoc7bc&v=9kJVYpOqcVU) from LearnCode.academy.
 
 ## Getting Started
 
