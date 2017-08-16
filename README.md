@@ -8,7 +8,7 @@ Click [here](https://www.youtube.com/watch?annotation_id=annotation_4139363737&f
 - $ NODE_ENV=production webpack
 
 ## Built With
-- JavaScript ES6+, Node.js, Webpack.
+- JavaScript ES6+, Node.js, Webpack, Lodash, jQuery.
 
 ## Acknowledgments
 
